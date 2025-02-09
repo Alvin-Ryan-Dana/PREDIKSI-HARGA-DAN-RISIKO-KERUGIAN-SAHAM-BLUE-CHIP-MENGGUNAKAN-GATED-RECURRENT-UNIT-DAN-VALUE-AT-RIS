@@ -13,7 +13,7 @@
 - 📉 **Prediksi Risiko Menggunakan Value at Risk Historis**: Menggunakan metode Value at Risk (VaR) berbasis data historis.
 
 ## Cara Instalasi
-1. **Download file eksekusi** berikut: *(Tambahkan link ke file .exe nanti)*
+1. **Download file eksekusi** berikut: *https://l1nk.dev/0K9AP*
 2. **Jalankan file** yang telah diunduh untuk menginstal aplikasi.
 
 ## Cara Penggunaan
@@ -23,8 +23,5 @@
 - **Alvin Ryan Dana**
 
 ## Lisensi
-*(Coming Soon – lisensi akan ditambahkan nanti.)*
+*(Coming Soon – lisensi akan ditambahkan nanti.)* 
 
-Project Link
-1.0.0 
-https://l1nk.dev/0K9AP
