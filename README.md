@@ -17,7 +17,33 @@
 2. **Jalankan file** yang telah diunduh untuk menginstal aplikasi.
 
 ## Cara Penggunaan
-*(Nanti akan diperbarui sesuai instruksi yang diberikan.)*
+Cara Penggunaan 📖
+
+1️⃣ Unggah Data
+
+  Klik tombol Unggah Data untuk memasukkan dataset saham yang ingin dianalisis.
+  Pastikan format dataset sesuai dengan spesifikasi aplikasi agar dapat diproses dengan baik.
+
+2️⃣ Lihat Grafik & Statistik
+
+  Gunakan fitur Lihat Grafik untuk melihat tren harga saham historis dalam bentuk grafik interaktif.
+  Gunakan fitur Statistik Deskriptif untuk memahami karakteristik data saham, seperti rata-rata, standar deviasi, dan distribusi data.
+
+3️⃣ Bangun Model GRU
+
+  Pilih jumlah layer dan optimizer yang diinginkan untuk melatih model prediksi saham.
+  Konfigurasi ini memungkinkan pengguna menyesuaikan kompleksitas model sesuai kebutuhan.
+
+4️⃣ Lakukan Prediksi
+
+  Masukkan jumlah langkah prediksi (time steps) dan jalankan model untuk mendapatkan hasil prediksi harga saham.
+  Model akan menghasilkan nilai prediksi yang bisa dibandingkan dengan data aktual.
+
+5️⃣ Analisis Risiko
+
+  Gunakan fitur Analisis Risiko Investasi untuk mengevaluasi potensi risiko berdasarkan prediksi harga saham.
+  Gunakan metode Value at Risk (VaR) untuk menghitung kemungkinan kerugian dalam periode tertentu.
+  Interpretasi hasil analisis risiko dapat membantu dalam strategi investasi.
 
 ## Kontribusi
 - **Alvin Ryan Dana**
