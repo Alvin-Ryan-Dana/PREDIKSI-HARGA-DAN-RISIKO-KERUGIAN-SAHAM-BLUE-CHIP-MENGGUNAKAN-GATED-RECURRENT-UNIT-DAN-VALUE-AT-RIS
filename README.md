@@ -13,7 +13,7 @@
 - 📉 **Prediksi Risiko Menggunakan Value at Risk Historis**: Menggunakan metode Value at Risk (VaR) berbasis data historis.
 
 ## Cara Instalasi
-1. **Download file eksekusi** berikut: *[Download me](https://drive.google.com/file/d/1xxesQv8C-7QpkbOh8IoXG-yWSPMQry8Y/view?usp=sharing)*
+1. **Download file eksekusi** berikut: https://drive.google.com/file/d/1xxesQv8C-7QpkbOh8IoXG-yWSPMQry8Y/view?usp=sharing
 2. **Jalankan file** yang telah diunduh untuk menginstal aplikasi.
 
 ## Cara Penggunaan
