@@ -49,5 +49,5 @@ Cara Penggunaan 📖
 - **Alvin Ryan Dana**
 
 ## Lisensi
-*(Coming Soon – lisensi akan ditambahkan nanti.)* 
+Nomor Pencatatan : 000871485 
 
