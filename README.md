@@ -14,7 +14,7 @@
 
 ## Cara Instalasi
 1. **Download file eksekusi** berikut: https://drive.google.com/file/d/1xxesQv8C-7QpkbOh8IoXG-yWSPMQry8Y/view?usp=sharing
-2. **Jalankan file** yang telah diunduh untuk menginstal aplikasi.
+2. **Jalankan file** yang telah diunduh untuk menginstal aplikasi. 
 
 ## Cara Penggunaan
 Cara Penggunaan 📖
