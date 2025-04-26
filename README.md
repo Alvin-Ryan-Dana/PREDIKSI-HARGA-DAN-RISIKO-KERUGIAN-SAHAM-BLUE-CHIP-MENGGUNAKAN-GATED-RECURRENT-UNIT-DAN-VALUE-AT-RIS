@@ -1,4 +1,5 @@
 # Prediksi Saham dan Risiko
+manual book : https://drive.google.com/file/d/1jjX6ZQcUuGCXorKXEfd0VtAlOGzoOinM/view?usp=drivesdk
 
 ## Deskripsi Singkat
 *"Prediksi Saham dan Risiko" adalah aplikasi yang dirancang untuk menganalisis pergerakan harga saham dan mengukur risiko investasi menggunakan model berbasis GRU (Gated Recurrent Unit). Dengan fitur unggah data, analisis statistik, serta prediksi harga dan risiko, aplikasi ini membantu pengguna dalam mengambil keputusan investasi yang lebih akurat. Selain itu, metode Value at Risk (VaR) digunakan untuk menilai potensi kerugian berdasarkan data historis, memberikan wawasan yang lebih mendalam terkait manajemen risiko*
